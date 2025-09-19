@@ -1,4 +1,4 @@
-                                            # Hi I am Eba 👐
+  # Hi I am Eba 👐
 ## 💫 About Me:
 🔭 I’m currently working on a personal portfolio website and a few fun JavaScript projects.  <br>🤝 I’m looking to collaborate on open-source beginner-friendly front-end projects.  <br>👐 I’m looking for help with building better UI/UX and optimizing performance.  <br>🌱 I’m currently learning React, Node.js, and modern web design practices.  <br>💬 Ask me about HTML, CSS, JavaScript basics, and starting your first website.  <br>⚡️ Fun fact: I can code for hours with lo-fi beats and forget the time!  <br>
 
