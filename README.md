@@ -35,11 +35,12 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Eba-Teshale-Intellicore&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Eba-Teshale-Intellicore&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eba-Teshale-Intellicore&theme=dark&layout=compact)
 
----
+![](https://github-readme-stats.vercel.app/api?username=Eba-Teshale-Intellicore&theme=dark&hide_border=false)
+
+![](https://streak-stats.demolab.com?user=Eba-Teshale-Intellicore&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eba-Teshale-Intellicore&theme=dark&layout=compact)
 
 ## 🚀 Goal
 To become a strong full-stack developer capable of building scalable systems, clean UI/UX, and real-world applications.
